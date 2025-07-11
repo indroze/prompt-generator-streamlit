@@ -42,7 +42,7 @@ Hindari: teks di layar, subtitle, font, logo, distorsi, artefak, anomali, wajah 
 
 # UI
 st.set_page_config(page_title="Prompt Generator", layout="wide")
-st.title("🎬 Prompt Generator untuk VEO 3")
+st.title("🎬 Prompt Generator V 1.0 untuk VEO 3")
 
 with st.form("prompt_form"):
     col1, col2 = st.columns(2)
